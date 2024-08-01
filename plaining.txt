@@ -1,0 +1,23 @@
+voting application
+
+
+A functinality where user can give vote to the given set of candidates
+
+Models?
+Routes?
+
+voting app functionality
+
+1. sign in/sign up 
+2. see the list of candidates
+3. vote one of the candidates only one times
+4. There is routes which shows the list of candidates and their live vote counts sorted by their vote counts
+5. user data wil be unique
+6. ther should be admin 
+7. user can change 
+8. user can login with aadhar card
+9. admin can't give vote
+
+
+
+
